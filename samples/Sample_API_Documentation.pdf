@@ -1,0 +1,199 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 3000
+>>
+stream
+BT
+/F1 14 Tf
+72 720 Td
+(Sample API Documentation) Tj
+0 -25 Td
+(Automation Documentation Agent) Tj
+0 -40 Td
+/F1 12 Tf
+(1. Overview) Tj
+0 -20 Td
+/F1 10 Tf
+(The Automation Documentation Agent provides a comprehensive API) Tj
+0 -15 Td
+(for managing document workflows through Telegram, n8n, Notion,) Tj
+0 -15 Td
+(and GitHub integrations.) Tj
+0 -30 Td
+/F1 12 Tf
+(2. Authentication) Tj
+0 -20 Td
+/F1 10 Tf
+(All API requests require authentication using Bearer tokens.) Tj
+0 -15 Td
+(Include the token in the Authorization header:) Tj
+0 -15 Td
+(Authorization: Bearer your-api-key-here) Tj
+0 -30 Td
+/F1 12 Tf
+(3. Endpoints) Tj
+0 -20 Td
+/F1 10 Tf
+(3.1 Process Document) Tj
+0 -15 Td
+(POST /api/v1/documents/process) Tj
+0 -15 Td
+(Processes uploaded documents using AI) Tj
+0 -20 Td
+/F1 10 Tf
+(3.2 Generate Content) Tj
+0 -15 Td
+(POST /api/v1/content/generate) Tj
+0 -15 Td
+(Generates new documentation content) Tj
+0 -20 Td
+/F1 10 Tf
+(3.3 Publish to GitHub) Tj
+0 -15 Td
+(POST /api/v1/github/publish) Tj
+0 -15 Td
+(Publishes documents to GitHub repository) Tj
+0 -30 Td
+/F1 12 Tf
+(4. Request Examples) Tj
+0 -20 Td
+/F1 10 Tf
+(4.1 Process Document Request) Tj
+0 -15 Td
+({) Tj
+0 -15 Td
+(  "file_id": "doc_123",) Tj
+0 -15 Td
+(  "processing_type": "extract",) Tj
+0 -15 Td
+(  "options": {) Tj
+0 -15 Td
+(    "language": "en",) Tj
+0 -15 Td
+(    "format": "markdown") Tj
+0 -15 Td
+(  }) Tj
+0 -15 Td
+(}) Tj
+0 -30 Td
+/F1 12 Tf
+(5. Response Examples) Tj
+0 -20 Td
+/F1 10 Tf
+(5.1 Success Response) Tj
+0 -15 Td
+({) Tj
+0 -15 Td
+(  "success": true,) Tj
+0 -15 Td
+(  "document_id": "doc_123",) Tj
+0 -15 Td
+(  "status": "completed",) Tj
+0 -15 Td
+(  "result": {) Tj
+0 -15 Td
+(    "extracted_text": "...",) Tj
+0 -15 Td
+(    "summary": "...",) Tj
+0 -15 Td
+(    "metadata": {...}) Tj
+0 -15 Td
+(  }) Tj
+0 -15 Td
+(}) Tj
+0 -30 Td
+/F1 12 Tf
+(6. Error Handling) Tj
+0 -20 Td
+/F1 10 Tf
+(Standard HTTP status codes are used for error responses.) Tj
+0 -15 Td
+(400 - Bad Request) Tj
+0 -15 Td
+(401 - Unauthorized) Tj
+0 -15 Td
+(403 - Forbidden) Tj
+0 -15 Td
+(404 - Not Found) Tj
+0 -15 Td
+(500 - Internal Server Error) Tj
+0 -30 Td
+/F1 12 Tf
+(7. Rate Limiting) Tj
+0 -20 Td
+/F1 10 Tf
+(API requests are rate limited per API key.) Tj
+0 -15 Td
+(Free Tier: 100 requests/hour) Tj
+0 -15 Td
+(Pro Tier: 1000 requests/hour) Tj
+0 -15 Td
+(Enterprise: Custom limits) Tj
+0 -30 Td
+/F1 12 Tf
+(8. SDKs) Tj
+0 -20 Td
+/F1 10 Tf
+(JavaScript SDK: npm install automation-docs-sdk) Tj
+0 -15 Td
+(Python SDK: pip install automation-docs-python) Tj
+0 -15 Td
+(REST API: Direct HTTP requests) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000254 00000 n 
+0000003262 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+3321
+%%EOF

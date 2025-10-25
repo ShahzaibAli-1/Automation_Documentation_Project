@@ -1,0 +1,183 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 2500
+>>
+stream
+BT
+/F1 14 Tf
+72 720 Td
+(User Manual Sample) Tj
+0 -25 Td
+(Getting Started Guide) Tj
+0 -40 Td
+/F1 12 Tf
+(1. Introduction) Tj
+0 -20 Td
+/F1 10 Tf
+(Welcome to the Automation Documentation Agent! This guide will) Tj
+0 -15 Td
+(help you get started with automating your documentation workflow.) Tj
+0 -30 Td
+/F1 12 Tf
+(2. Prerequisites) Tj
+0 -20 Td
+/F1 10 Tf
+(Before you begin, ensure you have:) Tj
+0 -15 Td
+(• A Telegram account) Tj
+0 -15 Td
+(• Access to the Automation Documentation Bot) Tj
+0 -15 Td
+(• PDF, DOCX, or Markdown files to process) Tj
+0 -15 Td
+(• Notion workspace access) Tj
+0 -15 Td
+(• GitHub repository access) Tj
+0 -30 Td
+/F1 12 Tf
+(3. Getting Started) Tj
+0 -20 Td
+/F1 10 Tf
+(3.1 Find the Bot) Tj
+0 -15 Td
+(Search for @AutomationDocsBot in Telegram) Tj
+0 -20 Td
+/F1 10 Tf
+(3.2 Start a Conversation) Tj
+0 -15 Td
+(Send /start to begin using the bot) Tj
+0 -20 Td
+/F1 10 Tf
+(3.3 Available Commands) Tj
+0 -15 Td
+(/brainstorm - Start brainstorming session) Tj
+0 -15 Td
+(/generate - Generate new documentation) Tj
+0 -15 Td
+(/query - Ask questions about documents) Tj
+0 -15 Td
+(/help - Get help and command list) Tj
+0 -30 Td
+/F1 12 Tf
+(4. Using the Bot) Tj
+0 -20 Td
+/F1 10 Tf
+(4.1 Brainstorming Mode) Tj
+0 -15 Td
+(Use /brainstorm followed by your topic) Tj
+0 -15 Td
+(Example: /brainstorm API documentation) Tj
+0 -20 Td
+/F1 10 Tf
+(4.2 Document Generation) Tj
+0 -15 Td
+(Use /generate followed by requirements) Tj
+0 -15 Td
+(Upload reference documents if needed) Tj
+0 -20 Td
+/F1 10 Tf
+(4.3 Query Mode) Tj
+0 -15 Td
+(Use /query to ask questions) Tj
+0 -15 Td
+(Upload relevant documents for context) Tj
+0 -30 Td
+/F1 12 Tf
+(5. File Uploads) Tj
+0 -20 Td
+/F1 10 Tf
+(Supported formats:) Tj
+0 -15 Td
+(• PDF files (up to 10MB)) Tj
+0 -15 Td
+(• Word documents (.docx, up to 10MB)) Tj
+0 -15 Td
+(• Markdown files (.md, up to 5MB)) Tj
+0 -15 Td
+(• Text files (.txt, up to 5MB)) Tj
+0 -30 Td
+/F1 12 Tf
+(6. Best Practices) Tj
+0 -20 Td
+/F1 10 Tf
+(• Be specific in your requests) Tj
+0 -15 Td
+(• Upload reference documents) Tj
+0 -15 Td
+(• Review generated content) Tj
+0 -15 Td
+(• Use appropriate templates) Tj
+0 -15 Td
+(• Provide feedback for improvements) Tj
+0 -30 Td
+/F1 12 Tf
+(7. Support) Tj
+0 -20 Td
+/F1 10 Tf
+(For additional help:) Tj
+0 -15 Td
+(• Use /help for command assistance) Tj
+0 -15 Td
+(• Contact support through the bot) Tj
+0 -15 Td
+(• Visit GitHub repository) Tj
+0 -15 Td
+(• Join community discussions) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000254 00000 n 
+0000002762 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+2821
+%%EOF

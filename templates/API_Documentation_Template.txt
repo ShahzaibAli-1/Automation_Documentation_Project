@@ -1,0 +1,107 @@
+API Documentation Template
+
+Project: [PROJECT_NAME]
+Version: [VERSION]
+Date: [DATE]
+Author: [AUTHOR]
+
+Table of Contents
+1. Overview
+2. Authentication
+3. Endpoints
+4. Request/Response Examples
+5. Error Codes
+6. Rate Limiting
+7. SDKs and Libraries
+
+1. Overview
+============
+
+[PROJECT_DESCRIPTION]
+
+Base URL: [BASE_URL]
+API Version: [API_VERSION]
+
+2. Authentication
+================
+
+[Authentication method and requirements]
+
+Headers:
+- Authorization: Bearer [API_KEY]
+- Content-Type: application/json
+
+3. Endpoints
+============
+
+3.1 [ENDPOINT_NAME]
+-------------------
+Method: [HTTP_METHOD]
+URL: [ENDPOINT_URL]
+Description: [ENDPOINT_DESCRIPTION]
+
+Parameters:
+- [PARAMETER_NAME] ([TYPE]): [DESCRIPTION]
+
+Response:
+[RESPONSE_EXAMPLE]
+
+3.2 [ENDPOINT_NAME]
+-------------------
+Method: [HTTP_METHOD]
+URL: [ENDPOINT_URL]
+Description: [ENDPOINT_DESCRIPTION]
+
+Parameters:
+- [PARAMETER_NAME] ([TYPE]): [DESCRIPTION]
+
+Response:
+[RESPONSE_EXAMPLE]
+
+4. Request/Response Examples
+============================
+
+4.1 Example Request
+-------------------
+```json
+{
+  "example": "request"
+}
+```
+
+4.2 Example Response
+--------------------
+```json
+{
+  "example": "response"
+}
+```
+
+5. Error Codes
+==============
+
+| Code | Description | HTTP Status |
+|------|-------------|-------------|
+| [ERROR_CODE] | [ERROR_DESCRIPTION] | [HTTP_STATUS] |
+
+6. Rate Limiting
+================
+
+- Free Tier: [RATE_LIMIT_FREE]
+- Pro Tier: [RATE_LIMIT_PRO]
+- Enterprise: [RATE_LIMIT_ENTERPRISE]
+
+7. SDKs and Libraries
+=====================
+
+- JavaScript/Node.js: [SDK_JAVASCRIPT]
+- Python: [SDK_PYTHON]
+- Other: [SDK_OTHER]
+
+Contact Information
+===================
+
+For support and questions:
+- Email: [SUPPORT_EMAIL]
+- Documentation: [DOCS_URL]
+- GitHub: [GITHUB_URL]

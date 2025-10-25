@@ -1,0 +1,165 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 2500
+>>
+stream
+BT
+/F1 12 Tf
+72 720 Td
+(API Documentation) Tj
+0 -20 Td
+(Automation Documentation Agent) Tj
+0 -40 Td
+/F1 10 Tf
+(This document provides comprehensive API documentation for the) Tj
+0 -15 Td
+(Automation Documentation Agent system.) Tj
+0 -30 Td
+/F1 12 Tf
+(Base URL:) Tj
+0 -20 Td
+/F1 10 Tf
+(Production: https://api.automation-docs.com/v1) Tj
+0 -15 Td
+(Development: http://localhost:3000/v1) Tj
+0 -30 Td
+/F1 12 Tf
+(Authentication:) Tj
+0 -20 Td
+/F1 10 Tf
+(All API requests require authentication using API keys or JWT tokens.) Tj
+0 -15 Td
+(Headers: Authorization: Bearer <your-api-key>) Tj
+0 -30 Td
+/F1 12 Tf
+(Endpoints:) Tj
+0 -20 Td
+/F1 10 Tf
+(1. Telegram Bot API) Tj
+0 -15 Td
+(   POST /telegram/send-message) Tj
+0 -15 Td
+(   POST /telegram/upload-file) Tj
+0 -20 Td
+/F1 10 Tf
+(2. Document Processing API) Tj
+0 -15 Td
+(   POST /documents/process) Tj
+0 -15 Td
+(   GET /documents/{id}/status) Tj
+0 -20 Td
+/F1 10 Tf
+(3. Notion Integration API) Tj
+0 -15 Td
+(   POST /notion/documents) Tj
+0 -15 Td
+(   PUT /notion/documents/{id}) Tj
+0 -20 Td
+/F1 10 Tf
+(4. GitHub Integration API) Tj
+0 -15 Td
+(   POST /github/repositories) Tj
+0 -15 Td
+(   POST /github/commit) Tj
+0 -30 Td
+/F1 12 Tf
+(Error Handling:) Tj
+0 -20 Td
+/F1 10 Tf
+(Standard HTTP status codes are used:) Tj
+0 -15 Td
+(• 200: Success) Tj
+0 -15 Td
+(• 400: Bad Request) Tj
+0 -15 Td
+(• 401: Unauthorized) Tj
+0 -15 Td
+(• 403: Forbidden) Tj
+0 -15 Td
+(• 404: Not Found) Tj
+0 -15 Td
+(• 500: Internal Server Error) Tj
+0 -30 Td
+/F1 12 Tf
+(Rate Limiting:) Tj
+0 -20 Td
+/F1 10 Tf
+(Free Tier: 100 requests/hour) Tj
+0 -15 Td
+(Pro Tier: 1000 requests/hour) Tj
+0 -15 Td
+(Enterprise: Custom limits) Tj
+0 -30 Td
+/F1 12 Tf
+(SDKs Available:) Tj
+0 -20 Td
+/F1 10 Tf
+(• JavaScript/Node.js SDK) Tj
+0 -15 Td
+(• Python SDK) Tj
+0 -15 Td
+(• REST API) Tj
+0 -30 Td
+/F1 12 Tf
+(For detailed examples and code samples,) Tj
+0 -20 Td
+(F1 10 Tf
+(refer to the complete API documentation in docs/api.md) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000254 00000 n 
+0000002762 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+2821
+%%EOF

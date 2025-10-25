@@ -1,0 +1,173 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 2000
+>>
+stream
+BT
+/F1 14 Tf
+72 720 Td
+(System Architecture Document) Tj
+0 -25 Td
+(Automation Documentation Agent) Tj
+0 -40 Td
+/F1 12 Tf
+(Architecture Overview) Tj
+0 -20 Td
+/F1 10 Tf
+(The Automation Documentation Agent follows a microservices) Tj
+0 -15 Td
+(architecture with the following key components:) Tj
+0 -30 Td
+/F1 12 Tf
+(Core Components) Tj
+0 -20 Td
+/F1 10 Tf
+(1. Telegram Bot Interface) Tj
+0 -15 Td
+(   • Primary user interaction layer) Tj
+0 -15 Td
+(   • Command handling and file uploads) Tj
+0 -15 Td
+(   • Voice command support) Tj
+0 -20 Td
+/F1 10 Tf
+(2. n8n Automation Engine) Tj
+0 -15 Td
+(   • Workflow orchestration) Tj
+0 -15 Td
+(   • API integrations) Tj
+0 -15 Td
+(   • Error handling and retry logic) Tj
+0 -20 Td
+/F1 10 Tf
+(3. AI Processing Engine) Tj
+0 -15 Td
+(   • Document analysis and generation) Tj
+0 -15 Td
+(   • OpenAI GPT-4 integration) Tj
+0 -15 Td
+(   • Context analysis) Tj
+0 -20 Td
+/F1 10 Tf
+(4. Notion Integration) Tj
+0 -15 Td
+(   • Document storage and collaboration) Tj
+0 -15 Td
+(   • Template application) Tj
+0 -15 Td
+(   • Version tracking) Tj
+0 -20 Td
+/F1 10 Tf
+(5. GitHub Integration) Tj
+0 -15 Td
+(   • Version control and publishing) Tj
+0 -15 Td
+(   • Repository management) Tj
+0 -15 Td
+(   • Commit automation) Tj
+0 -30 Td
+/F1 12 Tf
+(Data Flow) Tj
+0 -20 Td
+/F1 10 Tf
+(1. User sends command via Telegram) Tj
+0 -15 Td
+(2. Telegram bot validates input) Tj
+0 -15 Td
+(3. n8n triggers workflow) Tj
+0 -15 Td
+(4. AI processor analyzes content) Tj
+0 -15 Td
+(5. Results stored in Notion) Tj
+0 -15 Td
+(6. Changes committed to GitHub) Tj
+0 -30 Td
+/F1 12 Tf
+(Technology Stack) Tj
+0 -20 Td
+/F1 10 Tf
+(• Backend: Node.js with Express.js) Tj
+0 -15 Td
+(• AI Processing: Python with FastAPI) Tj
+0 -15 Td
+(• Database: PostgreSQL with Redis) Tj
+0 -15 Td
+(• AI Models: OpenAI GPT-4) Tj
+0 -15 Td
+(• Automation: n8n workflows) Tj
+0 -15 Td
+(• Storage: Notion API) Tj
+0 -15 Td
+(• Version Control: GitHub API) Tj
+0 -30 Td
+/F1 12 Tf
+(Security Considerations) Tj
+0 -20 Td
+/F1 10 Tf
+(• API key management) Tj
+0 -15 Td
+(• File validation) Tj
+0 -15 Td
+(• Rate limiting) Tj
+0 -15 Td
+(• Error handling) Tj
+0 -15 Td
+(• Data privacy compliance) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000254 00000 n 
+0000002262 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+2321
+%%EOF

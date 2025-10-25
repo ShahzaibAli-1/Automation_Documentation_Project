@@ -1,0 +1,105 @@
+Meeting Minutes Template
+
+Meeting Title: [MEETING_TITLE]
+Date: [DATE]
+Time: [START_TIME] - [END_TIME]
+Location: [LOCATION/VIRTUAL]
+
+Attendees
+=========
+
+Present:
+- [NAME_1] - [ROLE]
+- [NAME_2] - [ROLE]
+- [NAME_3] - [ROLE]
+
+Absent:
+- [NAME_4] - [ROLE]
+- [NAME_5] - [ROLE]
+
+Meeting Objectives
+=================
+
+1. [OBJECTIVE_1]
+2. [OBJECTIVE_2]
+3. [OBJECTIVE_3]
+
+Agenda Items
+============
+
+1. [AGENDA_ITEM_1]
+   Discussion: [DISCUSSION_POINTS]
+   Decision: [DECISION_MADE]
+   Action Items: [ACTION_ITEMS]
+
+2. [AGENDA_ITEM_2]
+   Discussion: [DISCUSSION_POINTS]
+   Decision: [DECISION_MADE]
+   Action Items: [ACTION_ITEMS]
+
+3. [AGENDA_ITEM_3]
+   Discussion: [DISCUSSION_POINTS]
+   Decision: [DECISION_MADE]
+   Action Items: [ACTION_ITEMS]
+
+Key Decisions
+=============
+
+1. [DECISION_1]
+   Rationale: [RATIONALE]
+   Impact: [IMPACT]
+
+2. [DECISION_2]
+   Rationale: [RATIONALE]
+   Impact: [IMPACT]
+
+Action Items
+============
+
+| Action Item | Owner | Due Date | Status |
+|-------------|-------|----------|--------|
+| [ACTION_1] | [OWNER] | [DATE] | [STATUS] |
+| [ACTION_2] | [OWNER] | [DATE] | [STATUS] |
+| [ACTION_3] | [OWNER] | [DATE] | [STATUS] |
+
+Next Steps
+==========
+
+1. [NEXT_STEP_1]
+2. [NEXT_STEP_2]
+3. [NEXT_STEP_3]
+
+Next Meeting
+============
+
+Date: [NEXT_MEETING_DATE]
+Time: [NEXT_MEETING_TIME]
+Location: [NEXT_MEETING_LOCATION]
+Agenda: [NEXT_MEETING_AGENDA]
+
+Additional Notes
+================
+
+[ADDITIONAL_NOTES]
+
+Attachments
+===========
+
+- [ATTACHMENT_1]
+- [ATTACHMENT_2]
+- [ATTACHMENT_3]
+
+Meeting Minutes Prepared By
+===========================
+
+Name: [MINUTE_TAKER_NAME]
+Role: [ROLE]
+Date: [DATE]
+Signature: [SIGNATURE]
+
+Distribution List
+=================
+
+- [DISTRIBUTION_1]
+- [DISTRIBUTION_2]
+- [DISTRIBUTION_3]

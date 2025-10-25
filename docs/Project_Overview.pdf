@@ -1,0 +1,174 @@
+%PDF-1.4
+1 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+
+2 0 obj
+<<
+/Type /Pages
+/Kids [3 0 R]
+/Count 1
+>>
+endobj
+
+3 0 obj
+<<
+/Type /Page
+/Parent 2 0 R
+/MediaBox [0 0 612 792]
+/Contents 4 0 R
+/Resources <<
+/Font <<
+/F1 5 0 R
+>>
+>>
+>>
+endobj
+
+4 0 obj
+<<
+/Length 2000
+>>
+stream
+BT
+/F1 12 Tf
+72 720 Td
+(Automation Documentation Agent) Tj
+0 -20 Td
+(Project Overview) Tj
+0 -40 Td
+/F1 10 Tf
+(This document provides a comprehensive overview of the Automation) Tj
+0 -15 Td
+(Documentation Agent project, an AI-driven system for autonomous) Tj
+0 -15 Td
+(document generation, review, and publishing.) Tj
+0 -30 Td
+/F1 12 Tf
+(Key Features:) Tj
+0 -20 Td
+/F1 10 Tf
+(• Multi-Modal Interaction via Telegram) Tj
+0 -15 Td
+(• AI-Powered Document Processing) Tj
+0 -15 Td
+(• Automated Workflow with n8n) Tj
+0 -15 Td
+(• Notion Integration for Collaboration) Tj
+0 -15 Td
+(• GitHub Publishing Pipeline) Tj
+0 -15 Td
+(• Version Control and Document Management) Tj
+0 -30 Td
+/F1 12 Tf
+(System Architecture:) Tj
+0 -20 Td
+/F1 10 Tf
+(The system consists of several integrated components:) Tj
+0 -15 Td
+(1. Telegram Bot Interface) Tj
+0 -15 Td
+(2. n8n Automation Engine) Tj
+0 -15 Td
+(3. AI Processing Engine) Tj
+0 -15 Td
+(4. Notion Integration) Tj
+0 -15 Td
+(5. GitHub Integration) Tj
+0 -30 Td
+/F1 12 Tf
+(Technology Stack:) Tj
+0 -20 Td
+/F1 10 Tf
+(• Backend: Node.js with Express.js) Tj
+0 -15 Td
+(• AI Processing: Python with FastAPI) Tj
+0 -15 Td
+(• Database: PostgreSQL with Redis caching) Tj
+0 -15 Td
+(• AI Models: OpenAI GPT-4) Tj
+0 -15 Td
+(• Automation: n8n workflows) Tj
+0 -15 Td
+(• Storage: Notion API) Tj
+0 -15 Td
+(• Version Control: GitHub API) Tj
+0 -30 Td
+/F1 12 Tf
+(Supported Document Formats:) Tj
+0 -20 Td
+/F1 10 Tf
+(• PDF files (up to 10MB)) Tj
+0 -15 Td
+(• Word documents (.docx, up to 10MB)) Tj
+0 -15 Td
+(• Markdown files (.md, up to 5MB)) Tj
+0 -15 Td
+(• Text files (.txt, up to 5MB)) Tj
+0 -30 Td
+/F1 12 Tf
+(Workflow Process:) Tj
+0 -20 Td
+/F1 10 Tf
+(1. User interacts via Telegram bot) Tj
+0 -15 Td
+(2. Files are uploaded and validated) Tj
+0 -15 Td
+(3. AI processes documents and generates content) Tj
+0 -15 Td
+(4. Results are stored in Notion) Tj
+0 -15 Td
+(5. Documents are published to GitHub) Tj
+0 -15 Td
+(6. Version control and collaboration enabled) Tj
+0 -30 Td
+/F1 12 Tf
+(Getting Started:) Tj
+0 -20 Td
+/F1 10 Tf
+(1. Set up Telegram bot token) Tj
+0 -15 Td
+(2. Configure n8n workflows) Tj
+0 -15 Td
+(3. Connect Notion workspace) Tj
+0 -15 Td
+(4. Link GitHub repositories) Tj
+0 -15 Td
+(5. Start using the system) Tj
+0 -30 Td
+/F1 12 Tf
+(For more information, visit:) Tj
+0 -20 Td
+/F1 10 Tf
+(https://github.com/yourusername/automation-documentation-agent) Tj
+ET
+endstream
+endobj
+
+5 0 obj
+<<
+/Type /Font
+/Subtype /Type1
+/BaseFont /Helvetica
+>>
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000254 00000 n 
+0000002262 00000 n 
+trailer
+<<
+/Size 6
+/Root 1 0 R
+>>
+startxref
+2321
+%%EOF
