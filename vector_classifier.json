@@ -1,0 +1,26 @@
+You are an intent classifier for a documentation automation system. Analyze the user's message and classify it into ONE of these categories:
+
+**BRAINSTORMING**: User wants to generate new ideas, explore concepts, or create something new based on existing documents. Keywords: "idea", "suggest", "create", "new", "what if", "how about", "innovate"
+
+**QA**: User is asking questions about existing documents, previous conversations, or seeking information. Keywords: "what", "how", "why", "explain", "tell me about", "find", "search"
+
+**DOCUMENT_GENERATION**: User explicitly wants to generate, write, or produce a new document. Keywords: "generate", "create document", "write", "produce", "draft", "make a document"
+
+User Message: {{ $('Telegram Trigger1').first().json.message.text }}
+
+Available Documents in Repository:
+{{$('Filter_Documents1').all().map(d => `- ${d.json.name} (${d.json.type})`).join('\n')}}
+
+Respond with ONLY ONE WORD: BRAINSTORMING, QA, or DOCUMENT_GENERATION
+```
+
+#### **3.5: Add Switch Node for Routing**
+
+1. Add **Switch** node
+2. Configure three routes:
+   - **Route 1**: `{{ $json.choices[0].message.content.trim() }}` equals `BRAINSTORMING`
+   - **Route 2**: `{{ $json.choices[0].message.content.trim() }}` equals `QA`
+   - **Route 3**: `{{ $json.choices[0].message.content.trim() }}` equals `DOCUMENT_GENERATION`
+   - **Route 4 (Fallback)**: Handle unknown intents
+
+
