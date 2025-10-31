@@ -1,0 +1,22 @@
+if customer is having complain than it will generate ticket will create a table (Tells sentiments)
+
+CRM will tell the total number of leads (done)
+
+CRM will save the name of person (currently doing)
+
+integration of WhatsApp with crm
+
+
+most common question dashboard 
+
+if there is some incoming call it will  record history of it (done)
+
+
+reminder (done)
+
+
+reports and analytics (done)
+
+store conversation summary (done)
+
+if user asks to delay call it will do it?
